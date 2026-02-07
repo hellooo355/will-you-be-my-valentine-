@@ -2,9 +2,9 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
-    "deemz ",
+    "DIA ",
     "Just think about it!",
-    "i am not afraid to use your book against you",
+    "i am not afraid to break into your room",
     "just kidding...",
     "or am i ....",
     "JUST SAY YES HAYETE"
@@ -23,4 +23,5 @@ function handleNoClick() {
 
 function handleYesClick() {
     window.location.href = "yes_page.html";
+
 }
